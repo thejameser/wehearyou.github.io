@@ -2,3 +2,12 @@ title: "We Hear You"
 theme: minima
 description: "Support for those affected by cancer and life-threatening conditions"
 
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Contact"
+    url: /contact/

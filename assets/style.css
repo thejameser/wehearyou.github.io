@@ -29,4 +29,33 @@ section {
     border-radius: 8px;
 }
 
+/* General section styling */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero section */
+#hero {
+    text-align: center;
+    padding: 40px;
+    background-color: #241F81; /* WHY blue */
+    color: #ffffff;
+}
+
+/* Links and buttons */
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #241F81;
+    color: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a.button:hover {
+    background-color: #1A1766;
+}
 

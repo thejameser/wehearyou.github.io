@@ -23,4 +23,76 @@ a:hover {
 
 /* Section styling */
 section {
-    background-color: #ffffff; /* White for readability
+    background-color: #ffffff; /* White for readability */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero section */
+#hero {
+    text-align: center;
+    padding: 40px;
+    background-color: #241F81; /* WHY Blue */
+    color: #ffffff;
+}
+
+/* Specific styling for about, services, get-involved, and contact sections */
+#about, #services, #get-involved, #contact {
+    background-color: #f4f4f4;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+/* Button styling */
+a.button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #241F81;
+    color: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a.button:hover {
+    background-color: #1A1766;
+}
+
+/* Navigation bar styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #241F81; /* WHY Blue */
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.navbar h1 a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.navbar nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar nav ul li {
+    margin: 0 15px;
+}
+
+.navbar nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar nav ul li a:hover {
+    color: #ccccff; /* Lightened blue for hover effect */
+}

@@ -1,3 +1,13 @@
+body {
+    background-color: lightblue; /* This will make the background a light blue color */
+    font-family: 'Brown Std', sans-serif;
+}
+
+h1 {
+    color: darkred; /* This will turn all h1 headings dark red */
+    font-weight: bold;
+}
+
 @font-face {
     font-family: 'Brown Std';
     src: url('/assets/BrownStd-Regular.woff2') format('woff2'),

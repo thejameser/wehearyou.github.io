@@ -23,32 +23,4 @@ a:hover {
 
 /* Section styling */
 section {
-    background-color: #ffffff; /* White for readability */
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Hero section */
-#hero {
-    text-align: center;
-    padding: 40px;
-    background-color: #241F81; /* WHY Blue */
-    color: #ffffff;
-}
-
-/* Specific styling for about, services, get-involved, and contact sections */
-#about, #services, #get-involved, #contact {
-    background-color: #f4f4f4;
-    padding: 30px;
-    border-radius: 8px;
-}
-
-/* Button styling */
-a.button {
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 20px;
-    background-color: #241F81;
-    color: #
+    background-color: #ffffff; /* White for readability

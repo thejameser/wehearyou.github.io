@@ -1,53 +1,27 @@
-/* General body styling */
+/* Apply WHY Blue for primary elements */
 body {
     background-color: #f9f9f9; /* Light gray background */
     color: #333333; /* Dark gray for text */
     font-family: 'Brown Std', sans-serif;
 }
 
-/* Header colors */
+/* Headers using WHY Blue */
 h1, h2, h3, h4, h5, h6 {
     color: #241F81; /* WHY Blue */
 }
 
-/* Link styling */
+/* Links in WHY Blue */
 a {
     color: #241F81;
     text-decoration: none;
 }
 
 a:hover {
-    color: #1A1766; /* Darker WHY Blue for hover */
+    color: #1A1766; /* Slightly darker blue for hover */
     text-decoration: underline;
 }
 
-/* Section layout styling */
+/* Section styling */
 section {
-    padding: 20px;
-    margin: 20px 0;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Hero section styling */
-#hero {
-    text-align: center;
-    padding: 40px;
-    background-color: #241F81; /* WHY Blue */
-    color: #ffffff;
-}
-
-/* Button styling */
-a.button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #241F81;
-    color: #ffffff;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-a.button:hover {
-    background-color: #1A1766;
-}
+    background-color: #ffffff; /* White for readability */
+    padding: 20

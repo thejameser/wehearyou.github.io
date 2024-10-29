@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Services"
-permalink: /servcies/
+permalink: /services/
 ---
 
 # Services from We Hear You
